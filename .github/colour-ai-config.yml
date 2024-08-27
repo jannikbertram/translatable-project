@@ -1,0 +1,5 @@
+version: 1
+defaultPath: config/languages/resources/en-GB.ts
+languages:
+  - relativePath: de.ts
+    language: German
