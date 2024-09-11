@@ -6,6 +6,7 @@ save = Save
 submit = Submit
 confirm = Confirm
 delete = Delete
+add = Add
 `);
 
 export default translations;
