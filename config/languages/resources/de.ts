@@ -6,6 +6,7 @@ save = Speichern
 submit = Abschicken
 confirm = Bestätigen
 delete = Löschen
+add = Hinzufügen
 `);
 
 export default translations;
